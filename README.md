@@ -41,3 +41,6 @@ GLFW is now installed, but you still have to add it to the system environment, s
 ## Install p5
 * Open CMD or a python terminal and run the command `pip install p5`
     * Note: if this gives you permission errors, try either `pip install p5 --user` or `python -m pip install p5`
+    
+## Ready
+Now you should be able to run the p5 example. Navigate to the project directory in a command line window and use the command `python main.py` to run it. Try changing some parameters in the code to see what the effects are.
