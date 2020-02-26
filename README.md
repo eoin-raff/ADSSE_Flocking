@@ -19,7 +19,7 @@ Unfortunately it is not so easy to install GLFW on windows. Try the following st
 
  Note: I recommend getting the 32-bit binaries, even though you are likely on a 64-bit system (this is simply the only way it worked for me)
 2. Extract the to an easy to find location (e.g. `C:\GLFW\`). It is most important to ensure to this folder now contains `\include\` and `\lib-mingw\`
-3. Open the command prompt *as an administrator*
+3. Open the command prompt *as an administrator* 
     1. Open the start menu and type "cmd"
     2. Right-click on "Command Prompt"
     3. Select "Run as administrator"
