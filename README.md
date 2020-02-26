@@ -2,8 +2,8 @@
 Flocking Simulator example for MED8 Algorithms, Data Structures and Software Engineering course
 
 This repo contains two example of flocking:
-1. A Jupyter Notebook project written using numpy and animated using Matplotlib. This can be run on binder, (although the HTML animations may not work).
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EoinRaff/ADSSE_Flocking/master)
+1. `ADSSE_Flocking.ipynb`, A Jupyter Notebook project written using numpy and animated using Matplotlib. This can be run on binder, (although the HTML animations may not work):
+    * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EoinRaff/ADSSE_Flocking/master)
 2. A real time example written with the P5 library. P5 is a useful tool, though can be difficult to set up (instructions below).
 
 ## Installing GLFW
